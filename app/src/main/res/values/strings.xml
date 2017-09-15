@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Limousine</string>
+    <string name="choose_date">Chọn ngày :</string>
+    <string name="list_route">Danh sách các chuyến</string>
+    <string name="you_not_choose_seat">Bạn không chọn được ghế này</string>
+    <string name="sdt_lien_he">Số điện thoại : </string>
+    <string name="diem_don">Điểm đón :</string>
+    <string name="diem_xuong">Điểm xuống :</string>
+    <string name="cancel">Hủy</string>
+    <string name="book_ticker">Đặt vé</string>
+    <string name="you_time_out">Đã hết thời gian đặt vé</string>
+    <string name="phone_number_is_null">Số điện thoại không đúng</string>
+    <string name="seat_have_been_choose">Ghế này đã có người chọn</string>
+    <string name="dont_book_ticker">Bạn không thể đặt vé ghế này</string>
+</resources>
